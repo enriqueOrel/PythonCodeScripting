@@ -6,6 +6,26 @@ c = 'hello world'
 print(a)
 print(c)
 
+name = "Bruke"
+print("hello "+ name)
+
+color = "Blue"
+thing = "the sky"
+print(color + " is the color of " + thing)
+
+
+print(type('a'))
+print(type(2))
+print(type(2.5))
+
+
+# Python as a calculator
+
+print((((1+2)*3)/4)**5)
+
+
+
+
 # Swapping_varibles
 
 v1 = 'fist string'
