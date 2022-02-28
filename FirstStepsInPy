@@ -1,0 +1,19 @@
+# What are variables?
+
+a = 1
+c = 'hello world'
+
+print(a)
+print(c)
+
+# Swapping_varibles
+
+v1 = 'fist string'
+v2 = 'second string'
+
+temp1 = v2
+
+v2 = v1
+v1 = temp1
+
+print(v1, v2)
